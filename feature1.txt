@@ -1,2 +1,2 @@
-conflitExample2
+confitExample1
 commit 2
