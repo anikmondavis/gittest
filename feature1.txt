@@ -1,2 +1,2 @@
-new commit or first commit
+conflitExample2
 commit 2
